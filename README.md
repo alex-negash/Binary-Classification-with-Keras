@@ -1,1 +1,1 @@
-# Binary-Classification-with-Keras
+# Machine Learning: Logistic Regression & Ensemble Classifiers
